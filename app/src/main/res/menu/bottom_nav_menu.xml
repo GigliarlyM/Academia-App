@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/alter_icon"
+        android:title="@string/title_treino" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/dieta_icon"
+        android:title="@string/title_dieta" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/meta_icon"
+        android:title="@string/title_meta" />
+
+</menu>

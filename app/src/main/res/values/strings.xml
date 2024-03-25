@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Academia app</string>
+    <string name="nome_do_aplicativo">NOME DO APP</string>
+    <string name="entrar">Entrar</string>
+    <string name="bem_vindo">Bem-Vindo</string>
+    <string name="treino">TREINO</string>
+    <string name="meta">META</string>
+    <string name="dieta">DIETA</string>
+    <string name="title_activity_treino_meta_dieta">TreinoMetaDietaActivity</string>
+    <string name="title_treino">Treino</string>
+    <string name="title_dieta">Dieta</string>
+    <string name="title_meta">Meta</string>
+</resources>
